@@ -4,13 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter shopping cart application using mobx as state management.
 
-A few resources to get you started if this is your first Flutter project:
+<br/><br/>
+![screen1](assets/images/screen1.png)
+<br/><br/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br/><br/>
+![screen2](assets/images/screen2.png)
+<br/><br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/><br/>
+![screen3](assets/images/screen3.png)
+<br/><br/>
+
+<br/><br/>
+![screen4](assets/images/screen4.png)
